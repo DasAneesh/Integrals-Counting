@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intergrals Counting", "Intergrals Counting\Intergrals Counting.csproj", "{005FE6DF-8317-4997-A613-1C6756911C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{FEDA63F0-EBEA-45CD-BF1A-CECB1E1B10C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005FE6DF-8317-4997-A613-1C6756911C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005FE6DF-8317-4997-A613-1C6756911C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005FE6DF-8317-4997-A613-1C6756911C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005FE6DF-8317-4997-A613-1C6756911C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDA63F0-EBEA-45CD-BF1A-CECB1E1B10C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDA63F0-EBEA-45CD-BF1A-CECB1E1B10C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDA63F0-EBEA-45CD-BF1A-CECB1E1B10C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDA63F0-EBEA-45CD-BF1A-CECB1E1B10C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {378F0B45-C614-4194-A83B-20204A4DB6DE}
+	EndGlobalSection
+EndGlobal

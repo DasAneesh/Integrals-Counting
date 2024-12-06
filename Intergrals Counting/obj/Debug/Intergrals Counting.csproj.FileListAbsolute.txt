@@ -1,0 +1,14 @@
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\Intergrals Counting.exe.config
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\Intergrals Counting.exe
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\Intergrals Counting.pdb
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\LiveCharts.dll
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\LiveCharts.pdb
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\LiveCharts.xml
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\obj\Debug\Intergrals Counting.csproj.AssemblyReference.cache
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\obj\Debug\Intergrals Counting.csproj.CoreCompileInputs.cache
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\obj\Debug\Intergra.00A4812A.Up2Date
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\obj\Debug\Intergrals Counting.exe
+C:\Users\Academy\Documents\GitHub\Integrals-Counting\Intergrals Counting\obj\Debug\Intergrals Counting.pdb
