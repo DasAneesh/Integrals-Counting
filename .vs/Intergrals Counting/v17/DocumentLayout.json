@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\intergrals counting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|solutionrelative:intergrals counting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|c:\\users\\academy\\documents\\github\\integrals-counting\\intergrals counting\\integral-counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|solutionrelative:intergrals counting\\integral-counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|c:\\users\\academy\\documents\\github\\integrals-counting\\intergrals counting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|solutionrelative:intergrals counting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|c:\\users\\academy\\documents\\github\\integrals-counting\\intergrals counting\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\intergrals counting\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{005FE6DF-8317-4997-A613-1C6756911C0A}|Intergrals Counting\\Intergrals Counting.csproj|solutionrelative:intergrals counting\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Integral-Counting.cs",
               "DocumentMoniker": "C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\Intergrals Counting\\Integral-Counting.cs",
               "RelativeDocumentMoniker": "Intergrals Counting\\Integral-Counting.cs",
               "ToolTip": "C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\Intergrals Counting\\Integral-Counting.cs",
               "RelativeToolTip": "Intergrals Counting\\Integral-Counting.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAqwDkAAAAUAAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAQwKcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T16:48:09.07Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\Intergrals Counting\\Program.cs",
               "RelativeDocumentMoniker": "Intergrals Counting\\Program.cs",
               "ToolTip": "C:\\Users\\Academy\\Documents\\GitHub\\Integrals-Counting\\Intergrals Counting\\Program.cs",
               "RelativeToolTip": "Intergrals Counting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T16:56:59.012Z",
               "EditorCaption": ""
